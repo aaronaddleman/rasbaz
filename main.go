@@ -2,6 +2,7 @@ package main
 
 import (
         "time"
+	"fmt"
 
         "gobot.io/x/gobot"
         "gobot.io/x/gobot/drivers/gpio"
